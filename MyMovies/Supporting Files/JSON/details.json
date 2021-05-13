@@ -1,0 +1,92 @@
+{
+   "adult":false,
+   "backdrop_path":"/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+   "belongs_to_collection":{
+      "id":120794,
+      "name":"Batman Collection",
+      "poster_path":"/adQxUvQW8HXNsvMG5aj71pHh9T.jpg",
+      "backdrop_path":"/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
+   },
+   "budget":35000000,
+   "genres":[
+      {
+         "id":14,
+         "name":"Fantasy"
+      },
+      {
+         "id":28,
+         "name":"Action"
+      }
+   ],
+   "homepage":"",
+   "id":268,
+   "imdb_id":"tt0096895",
+   "original_language":"en",
+   "original_title":"Batman",
+   "overview":"Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+   "popularity":47.635,
+   "poster_path":"/tDexQyu6FWltcd0VhEDK7uib42f.jpg",
+   "production_companies":[
+      {
+         "id":9993,
+         "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+         "name":"DC Entertainment",
+         "origin_country":"US"
+      },
+      {
+         "id":429,
+         "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+         "name":"DC Comics",
+         "origin_country":"US"
+      },
+      {
+         "id":127499,
+         "logo_path":null,
+         "name":"Polygram Entertainment",
+         "origin_country":"US"
+      },
+      {
+         "id":4357,
+         "logo_path":null,
+         "name":"The Guber-Peters Company",
+         "origin_country":""
+      },
+      {
+         "id":174,
+         "logo_path":"/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+         "name":"Warner Bros. Pictures",
+         "origin_country":"US"
+      }
+   ],
+   "production_countries":[
+      {
+         "iso_3166_1":"GB",
+         "name":"United Kingdom"
+      },
+      {
+         "iso_3166_1":"US",
+         "name":"United States of America"
+      }
+   ],
+   "release_date":"1989-06-23",
+   "revenue":411348924,
+   "runtime":126,
+   "spoken_languages":[
+      {
+         "english_name":"English",
+         "iso_639_1":"en",
+         "name":"English"
+      },
+      {
+         "english_name":"French",
+         "iso_639_1":"fr",
+         "name":"Français"
+      }
+   ],
+   "status":"Released",
+   "tagline":"Have you ever danced with the devil in the pale moonlight?",
+   "title":"Batman",
+   "video":false,
+   "vote_average":7.2,
+   "vote_count":5481
+}

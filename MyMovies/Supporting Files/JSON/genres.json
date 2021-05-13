@@ -1,0 +1,78 @@
+{
+  "12": {
+     "name":"Adventure",
+     "color": "Gold"
+  },
+  "14": {
+     "name":"Fantasy",
+     "color": "Pink"
+  },
+  "16": {
+     "name":"Animation",
+     "color": "Green"
+  },
+  "18": {
+     "name":"Drama",
+     "color": "Green"
+  },
+  "27": {
+     "name":"Horror",
+     "color": "Red"
+  },
+   "28": {
+     "name":"Action",
+     "color": "Dark Blue"
+  },
+  "35": {
+     "name":"Comedy",
+     "color": "Dark Gray"
+  },
+  "36": {
+     "name":"History",
+     "color": "Dark Blue"
+  },
+  "37": {
+     "name":"Western",
+     "color": "Dark Gray"
+  },
+  "53": {
+     "name":"Thriller",
+     "color": "Light Blue"
+  },
+  "80": {
+     "name":"Crime",
+     "color": "Orange"
+  },
+  "99": {
+     "name":"Documentary",
+     "color": "Gray"
+  },
+  "878": {
+     "name":"Science Fiction",
+     "color": "Red"
+  },
+  "9648": {
+     "name":"Mystery",
+     "color": "Purple"
+  },
+  "10402": {
+     "name":"Music",
+     "color": "Gold"
+  },
+  "10751": {
+     "name":"Family",
+     "color": "Purple"
+  },
+  "10749": {
+     "name":"Romance",
+     "color": "Pink"
+  },
+  "10752": {
+     "name":"War",
+     "color": "Midnight"
+  },
+  "10770": {
+     "name":"TV Movie",
+     "color": "Teal"
+  }
+}

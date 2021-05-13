@@ -20,3 +20,9 @@ To make the app use it, please create a `keys.json` file on the project's root l
     "api_key": "<your key>"
 }
 ```
+
+---
+
+## Screenshot Example
+
+![Generic badge](/Documentation/Resources/screenshot.jpeg)

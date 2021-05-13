@@ -10,3 +10,13 @@ It was created during a SwiftUI and CoreData Workshop lead by [Paul Hudson](http
 
 The data are provided by [The Movie Database](https://www.themoviedb.org/).
 
+## Setup API Key
+
+The Movie Database requieres an api key to authenticate. You must [create your own key](https://www.themoviedb.org/documentation/api) for free.
+
+To make the app use it, please create a `keys.json` file on the project's root level. The file is ignored by git.
+```json
+{
+    "api_key": "<your key>"
+}
+```

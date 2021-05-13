@@ -1,5 +1,9 @@
 .DS_Store
 
+# Keys and Secrets
+
+keys.json
+
 # Xcode
 
 ## User settings

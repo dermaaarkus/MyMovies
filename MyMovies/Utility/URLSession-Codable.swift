@@ -9,6 +9,13 @@ import Combine
 import Foundation
 
 extension URLSession {
+    /// Requires file "keys.json" on projects root level!
+    private static let keys = Bundle.main.decode(
+        Keys.self,
+        from: "keys.json",
+        keyDecodingStrategy: .convertFromSnakeCase
+    )
+    
     func fetch<T: Decodable>(
         _ url: URL,
         defaultValue: T,
@@ -36,9 +43,8 @@ extension URLSession {
             return nil
         }
         
-        // TODO: set api_key in a more convenient way
         components.queryItems = [
-            URLQueryItem(name: "api_key", value: "")
+            URLQueryItem(name: "api_key", value: Self.keys.apiKey)
         ]
         + queryItems.map(URLQueryItem.init)
         
@@ -65,4 +71,10 @@ extension URLSession {
             .receive(on: RunLoop.main)
             .sink(receiveValue: completion)
     }
+}
+
+// MARK: -
+
+private struct Keys: Decodable {
+    let apiKey: String
 }
